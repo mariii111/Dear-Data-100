@@ -1,31 +1,31 @@
-Ethncity     | Course                    | Gender | Speak Mother Tongue | Year of Study
-Pakistani    | Economics                 | Male   | Yes                 | 2nd Year       06/10/26
-Somali       | Economics                 | Male   | Yes                 | 2nd Year       06/10/26 
-Somali       | Computer Science          | Male   | Yes                 | 1st Year       06/10/26
-Afghan       | Maths w Data Science      | Male   | Yes                 | 1st Year       06/10/26
-Pakistani    | Law                       | Female | No                  | 3rd Year       06/10/26
-Pakistani    | Psychology                | Female | No                  | 3rd Year       06/10/26
-Pakistani    | Psychology                | Female | Yes                 | 3rd Year       06/10/26
-Bengali      | Psychology                | Female | No                  | 3rd Year       06/19/26
-Bengali      | Economics                 | Female | Yes                 | 2nd Year       06/10/26
-Kurdish      | Finance                   | Male   | Yes                 | 1st Year       06/10/26
-Moldova      | Finance                   | Female | No                  | 1st Year       13/10/26
-Moroccan     | Law                       | Female | No                  | 2nd Year       13/10/26
-Moroccan     | Law                       | Female | No                  | 2nd Year       13/10/26
-Somali       | Midwifery                 | Female | Yes                 | 2nd Year       13/10/26
-Somali       | Midwifery                 | Female | Yes                 | 2nd Year       13/10/26
-Bengali      | Psychology                | Female | Yes                 | 1st Year       13/10/26
-Algerian     | Speech & Language Therapy | Female | Yes                 | 1st Year       13/10/26   
-Pakistani    | Sociology w Criminology   | Female | No                  | 1st Year       13/10/26
-Somali       | Economics & Accounting    | Female | Yes                 | 2nd Year       13/10/26
-Moroccan     | Midwifery                 | Female | No                  | 2nd Year       13/10/26
-Uganda       | Speech & Language Therapy | Male   | Yes                 | 3rd Year       20/10/26
-Ghana        | Accounting & Finance      | Male   | Yes                 | 3rd Year       20/10/26
-Jamaican     | IR & Politics             | Male   | No                  | 2nd Year       20/10/26
-Sierra Leone | Psychology w Criminology  | Female | Yes                 | 1st Year       20/10/26
-Ghana        | Economics w Accounting    | Male   | No                  | 1st Year       20/10/26
-Congo        | Business w Economics      | Male   | Yes                 | 1st Year       20/10/26
-Yemen        | Law                       | Male   | Yes                 | 1st Year       20/10/26
-ALbanian     | Economics                 | Female | Yes                 | 2nd Year       20/10/26
-Albanian     | Economics                 | Female | Yes                 | 2nd Year       20/10/26
-Pakistani    | Psychology                | Female | No                  | 3rd Year       20/10/26
+Ethncity     , Course                    , Gender , Speak Mother Tongue , Year of Study
+Pakistani    , Economics                 , Male   , Yes                 , 2nd Year       ,06/10/26
+Somali       , Economics                 , Male   , Yes                 , 2nd Year       ,06/10/26 
+Somali       , Computer Science          , Male   , Yes                 , 1st Year       ,06/10/26
+Afghan       , Maths w Data Science      , Male   , Yes                 , 1st Year       ,06/10/26
+Pakistani    , Law                       , Female , No                  , 3rd Year       ,06/10/26
+Pakistani    , Psychology                , Female , No                  , 3rd Year       ,06/10/26
+Pakistani    , Psychology                , Female , Yes                 , 3rd Year       ,06/10/26
+Bengali      , Psychology                , Female , No                  , 3rd Year       ,06/19/26
+Bengali      , Economics                 , Female , Yes                 , 2nd Year       ,06/10/26
+Kurdish      , Finance                   , Male   , Yes                 , 1st Year       ,06/10/26
+Moldova      , Finance                   , Female , No                  , 1st Year       ,13/10/26
+Moroccan     , Law                       , Female , No                  , 2nd Year       ,13/10/26
+Moroccan     , Law                       , Female , No                  , 2nd Year       ,13/10/26
+Somali       , Midwifery                 , Female , Yes                 , 2nd Year       ,13/10/26
+Somali       , Midwifery                 , Female , Yes                 , 2nd Year       ,13/10/26
+Bengali      , Psychology                , Female , Yes                 , 1st Year       ,13/10/26
+Algerian     , Speech & Language Therapy , Female , Yes                 , 1st Year       ,13/10/26   
+Pakistani    , Sociology w Criminology   , Female , No                  , 1st Year       ,13/10/26
+Somali       , Economics & Accounting    , Female , Yes                 , 2nd Year       ,13/10/26
+Moroccan     , Midwifery                 , Female , No                  , 2nd Year       ,13/10/26
+Uganda       , Speech & Language Therapy , Male   , Yes                 , 3rd Year       ,20/10/26
+Ghana        , Accounting & Finance      , Male   , Yes                 , 3rd Year       ,20/10/26
+Jamaican     , IR & Politics             , Male   , No                  , 2nd Year       ,20/10/26
+Sierra Leone , Psychology w Criminology  , Female , Yes                 , 1st Year       ,20/10/26
+Ghana        , Economics w Accounting    , Male   , No                  , 1st Year       ,20/10/26
+Congo        , Business w Economics      , Male   , Yes                 , 1st Year       ,20/10/26
+Yemen        , Law                       , Male   , Yes                 , 1st Year       ,20/10/26
+ALbanian     , Economics                 , Female , Yes                 , 2nd Year       ,20/10/26
+Albanian     , Economics                 , Female , Yes                 , 2nd Year       ,20/10/26
+Pakistani    , Psychology                , Female , No                  | 3rd Year       ,20/10/26
